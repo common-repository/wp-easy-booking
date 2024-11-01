@@ -1,0 +1,435 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Booking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-14 04:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.1"
+
+#: includes/class-booking-log-front.php:30 includes/class-booking-log.php:36
+msgid "Action"
+msgstr ""
+
+#: includes/class-booking-log.php:213
+msgid "Add"
+msgstr ""
+
+#: includes/class-booking-address.php:206
+msgid "Add New Booking"
+msgstr ""
+
+#: includes/class-booking-address.php:204
+msgctxt "add new on admin bar"
+msgid "Booking"
+msgstr ""
+
+#: includes/class-booking-address.php:129
+msgid "Address"
+msgstr ""
+
+#: view/admin/settings.php:119
+msgid "Admin Email"
+msgstr ""
+
+#: view/admin/settings.php:129
+msgid "Admin Email From Name"
+msgstr ""
+
+#: includes/class-booking-address.php:203
+msgctxt "admin menu"
+msgid "Booking"
+msgstr ""
+
+#: includes/class-booking-address.php:210
+msgid "All Booking"
+msgstr ""
+
+#: includes/class-general.php:32
+msgid "At"
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: includes/class-processing.php:158 view/frontend/booking-form.php:22
+#: view/frontend/booking-locations.php:7
+msgid "Book Now"
+msgstr ""
+
+#: includes/class-booking-log.php:257
+msgid "Booked as Visitor"
+msgstr ""
+
+#: includes/class-booking-log.php:34
+msgid "Booked On"
+msgstr ""
+
+#: includes/class-booking-log-front.php:128 includes/class-booking-log.php:158
+msgid "Booked To"
+msgstr ""
+
+#: includes/class-booking-log-front.php:26 includes/class-booking-log.php:31
+#: view/admin/booking-edit.php:28 view/admin/booking-edit.php:106
+#: view/frontend/booking-log.php:23 view/frontend/booking-log.php:90
+msgid "Booking"
+msgstr ""
+
+#: includes/class-booking-log-front.php:28
+#: includes/class-booking-log-front.php:132 includes/class-booking-log.php:162
+msgid "Booking Date"
+msgstr ""
+
+#: view/frontend/booking-order-email.php:19
+msgid "Booking Details"
+msgstr ""
+
+#: view/admin/settings.php:38
+msgid "Booking Form Page"
+msgstr ""
+
+#: view/admin/booking-search.php:10
+msgid "Booking ID"
+msgstr ""
+
+#: includes/class-booking-log.php:280
+msgid "Booking Log"
+msgstr ""
+
+#: includes/class-booking-log-front.php:130 includes/class-booking-log.php:160
+msgid "Booking Name"
+msgstr ""
+
+#: view/admin/settings.php:28
+msgid "Booking Open Till"
+msgstr ""
+
+#: includes/class-processing.php:134
+msgid "Booking order successfully deleted."
+msgstr ""
+
+#: includes/class-processing.php:75
+msgid "Booking order successfully updated."
+msgstr ""
+
+#: view/admin/settings.php:61
+msgid "Booking Orders Frontend Page"
+msgstr ""
+
+#: view/admin/settings.php:122
+msgid "Booking related emails will be sent here."
+msgstr ""
+
+#: includes/class-processing.php:238
+msgid "Booking successfully registered. Please check your email for details."
+msgstr ""
+
+#: view/admin/settings.php:84
+msgid "Booking Thankyou Page"
+msgstr ""
+
+#: includes/class-booking-log.php:33
+msgid "Customer"
+msgstr ""
+
+#: view/admin/booking-search.php:9
+msgid "Customer Email"
+msgstr ""
+
+#: view/admin/booking-edit.php:15 view/admin/booking-edit.php:93
+#: view/frontend/booking-log.php:10 view/frontend/booking-log.php:77
+#: view/frontend/booking-order-email.php:6
+msgid "Date"
+msgstr ""
+
+#: includes/class-booking-address.php:164 includes/class-processing.php:28
+msgid "Day"
+msgstr ""
+
+#: includes/class-booking-log.php:37
+msgid "Delete"
+msgstr ""
+
+#: includes/class-booking-log-front.php:78
+msgid "Details"
+msgstr ""
+
+#: includes/class-booking-address.php:208
+msgid "Edit Booking"
+msgstr ""
+
+#: includes/class-booking-log-front.php:107 includes/class-booking-log.php:134
+#: view/frontend/booking-form.php:14 view/frontend/booking-form.php:15
+msgid "Email"
+msgstr ""
+
+#: view/admin/settings.php:12 view/admin/settings.php:114
+msgid "Email Settings"
+msgstr ""
+
+#: view/admin/settings.php:31
+msgid ""
+"Enter the month number till the booking is open. Example - \"2\". If set to "
+"\"2\" then Booking will be available for next 2 months. Default is for 1 "
+"Month."
+msgstr ""
+
+#: view/admin/booking-search.php:11
+msgid "Filter"
+msgstr ""
+
+#: config/config-default.php:17
+msgid "Fri"
+msgstr ""
+
+#: includes/class-booking-address.php:167 includes/class-general.php:36
+#: includes/class-processing.php:31 includes/class-processing.php:54
+msgid "From"
+msgstr ""
+
+#: view/admin/settings.php:9 view/admin/settings.php:23
+msgid "General"
+msgstr ""
+
+#: view/frontend/booking-orders-page-link.php:1
+msgid "Go to booking orders page"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-easy-booking/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: includes/class-booking-log.php:30
+msgid "ID"
+msgstr ""
+
+#: view/admin/settings.php:51 view/admin/settings.php:74
+msgid "Important"
+msgstr ""
+
+#: config/config-default.php:9
+msgid "Mon"
+msgstr ""
+
+#: includes/class-booking-log-front.php:109 includes/class-booking-log.php:136
+#: view/frontend/booking-form.php:10 view/frontend/booking-form.php:11
+msgid "Name"
+msgstr ""
+
+#: includes/class-booking-address.php:207
+msgid "New Booking"
+msgstr ""
+
+#: includes/class-booking-log-front.php:161
+msgid "No booking added yet"
+msgstr ""
+
+#: includes/class-booking-address.php:213
+msgid "No Booking found in Trash."
+msgstr ""
+
+#: includes/class-booking-address.php:212
+msgid "No Booking found."
+msgstr ""
+
+#: includes/class-booking-log.php:194
+msgid "No records found"
+msgstr ""
+
+#: view/admin/booking-edit.php:14 view/admin/booking-edit.php:92
+#: view/frontend/booking-log.php:9 view/frontend/booking-log.php:76
+#: view/frontend/booking-order-email.php:5
+msgid "Order Details"
+msgstr ""
+
+#: includes/class-processing.php:242
+msgid "Payment not allowed!"
+msgstr ""
+
+#: includes/class-booking-log-front.php:111 includes/class-booking-log.php:138
+#: view/frontend/booking-form.php:18 view/frontend/booking-form.php:19
+msgid "Phone"
+msgstr ""
+
+#: view/admin/settings.php:98
+msgid ""
+"Please create a new page, put the thankyou message in that page. Users will "
+"be redirected to this page after successful booking."
+msgstr ""
+
+#: view/admin/settings.php:54
+msgid ""
+"Please create a new page, put this shortcode <strong>[schd_booking_form]"
+"</strong> in the page and select the page as the \"Booking Form Page\". You "
+"don't have to put that page in navigation."
+msgstr ""
+
+#: view/admin/settings.php:77
+msgid ""
+"Please create a new page, put this shortcode <strong>[schd_booking_orders]"
+"</strong> in the page and select the page as the \"Booking Orders Frontend "
+"Page\". From this page users will be able to view the Bookings they have."
+msgstr ""
+
+#: includes/class-booking-log-front.php:229
+msgid "Please login to view your bookings"
+msgstr ""
+
+#: includes/class-processing.php:124
+msgid "Plugin data updated."
+msgstr ""
+
+#: includes/class-booking-address.php:201
+msgctxt "post type general name"
+msgid "Booking"
+msgstr ""
+
+#: includes/class-booking-address.php:202
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr ""
+
+#: view/admin/booking-edit.php:8 view/frontend/booking-log.php:3
+msgid "Print"
+msgstr ""
+
+#: includes/class-booking-log.php:259
+msgid "Registered User"
+msgstr ""
+
+#: config/config-default.php:19
+msgid "Sat"
+msgstr ""
+
+#: view/admin/settings.php:106 view/admin/settings.php:140
+msgid "Save"
+msgstr ""
+
+#: includes/class-booking-address.php:124
+#: includes/class-booking-log-front.php:27 includes/class-booking-log.php:32
+msgid "Schedule"
+msgstr ""
+
+#: view/admin/booking-edit.php:65 view/admin/booking-edit.php:143
+#: view/frontend/booking-log.php:56 view/frontend/booking-log.php:123
+#: view/frontend/booking-order-email.php:35
+msgid "Schedule Details"
+msgstr ""
+
+#: includes/class-booking-address.php:211
+msgid "Search Booking"
+msgstr ""
+
+#: includes/class-booking-address.php:136
+msgid "Shortcode"
+msgstr ""
+
+#: view/admin/settings.php:15
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/class-booking-address.php:173
+#: includes/class-booking-log-front.php:29 includes/class-booking-log.php:35
+#: includes/class-processing.php:37 view/admin/booking-edit.php:72
+#: view/admin/booking-edit.php:150 view/frontend/booking-log.php:63
+#: view/frontend/booking-log.php:130 view/frontend/booking-order-email.php:42
+msgid "Status"
+msgstr ""
+
+#: view/admin/booking-edit.php:77
+msgid "Submit"
+msgstr ""
+
+#: config/config-default.php:7
+msgid "Sun"
+msgstr ""
+
+#: view/admin/booking-address-form.php:6
+msgid ""
+"This address will be displayed in the locations listing page created with "
+"[schd_booking_locations] shortcode."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a schedule booking plugin. Use this plugin as a complete booking "
+"solution for your site. Create Locations, Add Schedules to the locations, "
+"Let customers book for schedules. Manage bookings from admin panel."
+msgstr ""
+
+#: view/admin/settings.php:132
+msgid "This will ensure that the Emails are not treated as SPAM"
+msgstr ""
+
+#: config/config-default.php:15
+msgid "Thu"
+msgstr ""
+
+#: includes/class-booking-address.php:168
+#: includes/class-booking-address.php:171 includes/class-processing.php:32
+#: includes/class-processing.php:35
+msgid "Time"
+msgstr ""
+
+#: includes/class-booking-log-front.php:134 includes/class-booking-log.php:164
+msgid "Time Slot"
+msgstr ""
+
+#: includes/class-booking-address.php:170 includes/class-general.php:36
+#: includes/class-processing.php:34 includes/class-processing.php:54
+msgid "To"
+msgstr ""
+
+#: config/config-default.php:11
+msgid "Tue"
+msgstr ""
+
+#: includes/class-booking-address.php:161 includes/class-processing.php:25
+msgid "User"
+msgstr ""
+
+#: view/admin/booking-edit.php:37 view/admin/booking-edit.php:115
+msgid "User Info"
+msgstr ""
+
+#: includes/class-booking-log.php:259
+msgid "View"
+msgstr ""
+
+#: includes/class-booking-address.php:209
+msgid "View Booking"
+msgstr ""
+
+#: includes/class-booking-log.php:95
+msgid "View/Notify User"
+msgstr ""
+
+#: config/config-default.php:13
+msgid "Wed"
+msgstr ""
+
+#. Name of the plugin
+#: view/admin/settings.php:3
+msgid "WP Booking"
+msgstr ""
+
+#: view/frontend/booking-order-email.php:28
+msgid "Your Details"
+msgstr ""
+
+#: view/frontend/booking-log.php:32 view/frontend/booking-log.php:99
+msgid "Your Information"
+msgstr ""

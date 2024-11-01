@@ -1,0 +1,149 @@
+/* input */
+.book_forms input[type=text]{
+width:100%;
+}
+.book_forms input[type=email]{
+width:100%;
+}
+textarea{
+width:100%;
+resize:none;
+}
+/* input */
+
+/* notification message */
+.success{
+width:100%;
+margin:5px;
+padding:5px;
+border:1px solid #1D6F16;
+background-color:#fff;
+border-left:4px solid #1D6F16;
+color:#1D6F16;
+border-radius:4px;
+box-sizing:border-box;
+}
+.error{
+width:100%;
+margin:5px;
+padding:5px;
+border:1px solid #BC1117;
+border-left:4px solid #BC1117;
+background-color:#fff;
+color:#BC1117;
+border-radius:4px;
+box-sizing:border-box;
+}
+
+.booking-orders-page-link{
+	border:1px solid #ccc;
+	width:100%;
+	text-align:center;
+	padding:20px;
+	box-sizing:border-box;
+}
+
+/* calendar */
+.ui-highlight .ui-state-default{
+	background:#A3CCE8;
+	border-color:#A3CCE8;
+	color:#000000;
+}
+.ui-state-active{
+	background-color:#52A9E4 !important;
+	border-color:#52A9E4 !important;
+}
+
+/* address lists */
+
+ul.add-lists {
+	list-style: none;
+	font-size: 0px;
+	margin:0;
+	padding:0;
+}
+ul.add-lists li {
+	display: inline-block;
+	padding: 10px;
+	margin: 0 2.5% 2.5% 0;
+	background: #fff;
+	border: 1px solid #ddd;
+	font-size: 16px;
+	vertical-align: top;
+	box-shadow: 0 0 5px #ddd;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+ul.add-lists li h3 {
+	margin: 0 0 5px;
+}
+ul.add-lists li h3 a {
+	text-decoration:none;
+}
+ul.add-lists li p {
+	font-size: 12px;
+	line-height: 15px;
+}
+/* class for 2 columns */
+ul.add-lists.columns-2 li {
+	width: 47.5%; /* this value + 2.5 should = 50% */
+}
+/* class for 3 columns */
+ul.add-lists.columns-3 li {
+	width: 30.83%; /* this value + 2.5 should = 33% */
+}
+/* class for 4 columns */
+ul.add-lists.columns-4 li {
+	width: 22.5%; /* this value + 2.5 should = 25% */
+}
+
+.book-list-table{
+	width:100%;
+	background-color:#fff;
+	border:1px solid #ccc;
+}
+
+.book-list-table thead{
+	background-color:#F0F0F0;
+}
+.book-list-table tr td{
+	padding:5px;
+}
+.book-list-table tr th{
+	padding:5px;
+}
+.book-list-table .alternate{
+	background-color:#F3F3F3;
+}
+
+.sc-cal{
+display:flex; 
+justify-content:center;
+}
+
+.booking-barcode{
+	text-align:right;
+}
+
+@media (max-width: 480px) {
+	ul.add-lists {
+		margin-left: 0;
+	}
+	ul.add-lists li {
+		width: 100% !important; /* over-ride all li styles */
+		margin: 0 0 20px;
+	}
+}
+
+.schd-list-table tr{
+	border-bottom: 1px solid #ccc;
+}
+
+.schd-list-table tr td{
+	text-align: center;
+}
+
+.rw-error{ color:#ff0000; } 
+input.rw-error{ border:1px solid #ff0000 !important; }
+textarea.rw-error{ border:1px solid #ff0000 !important; }

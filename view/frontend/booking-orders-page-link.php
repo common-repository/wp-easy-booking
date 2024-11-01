@@ -1,0 +1,1 @@
+<div class="booking-orders-page-link"><a href="<?php echo get_permalink(get_option('booking_order_page'));?>"><?php _e('Go to booking orders page','wp-easy-booking');?></a></div>
